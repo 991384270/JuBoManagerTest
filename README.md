@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JuBoManagerTest
 
 [![CI Status](https://img.shields.io/travis/991384270/JuBoManagerTest.svg?style=flat)](https://travis-ci.org/991384270/JuBoManagerTest)
@@ -27,3 +28,6 @@ pod 'JuBoManagerTest'
 ## License
 
 JuBoManagerTest is available under the MIT license. See the LICENSE file for more info.
+=======
+# JuBoManagerTest
+>>>>>>> refs/remotes/origin/master
