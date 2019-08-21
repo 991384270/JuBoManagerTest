@@ -1,0 +1,6 @@
+framework module JuBoManagerTest {
+  umbrella header "JuBoManagerTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JuBoManagerTest (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JuBoManagerTest (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  JuBoManagerTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JuBoManagerTest: 7283e4fd8af2a174ff6a876b4d20c5e650aa4e3e
+
+PODFILE CHECKSUM: 97cddb5206d76e789798c3b62f177096dc3bb004
+
+COCOAPODS: 1.7.5

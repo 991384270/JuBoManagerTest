@@ -1,0 +1,6 @@
+framework module Pods_JuBoManagerTest_Tests {
+  umbrella header "Pods-JuBoManagerTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
